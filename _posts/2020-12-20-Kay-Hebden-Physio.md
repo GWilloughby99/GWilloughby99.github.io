@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/Kay by computer.jpeg
 share-img: /assets/img/path.jpg
 tags: [Covid-19, Physiotherapy, NHS]
 ---
-"/path/to/img" : "Caption of image"
+
 For multiple decades, Kay was a physiotherapist working with those with multiskeletal conditions. This involved direct outpatient referrals from GPs where she would provide treatment through face-to-face appointments. Kay also worked on the orthopaedic pathway. In March, Covid-19 changed her job forever.
 
 >“I often say to people it is like I am trying to do physiotherapy with my hands tied around my back and blindfolded when I am on the phone to somebody. It is really difficult but you find a way to get used to it.”
