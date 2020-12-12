@@ -15,9 +15,7 @@ author: George Willoughby
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Podcast: "podcast"
   Portfolio: "examples"
   Contact: "contact"
 
