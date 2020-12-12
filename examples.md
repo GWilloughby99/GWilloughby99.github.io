@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examples
-subtitle: Below is some of my work
+subtitle:
 ---
 # Huffington Post
 
@@ -17,7 +17,7 @@ subtitle: Below is some of my work
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4333164"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Table for over60s testing psotive
+## Table for over60s testing positive
 
 <div class="flourish-embed flourish-table" data-src="visualisation/4463695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
