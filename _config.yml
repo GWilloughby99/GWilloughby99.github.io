@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Portfolio: "https://wakelet.com/@GeorgeWilloughby"
+  Portfolio: "examples"
   Contact: "contact"
 
 # --- Logo --- #
