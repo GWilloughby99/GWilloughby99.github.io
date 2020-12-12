@@ -2,12 +2,12 @@
 layout: post
 title: “We were being asked to do a completely different job to what we had been doing all of our careers” - physiotherapist Kay Hebden on the impact of Covid-19
 subtitle: Outpatient departments, such as physiotherapy, are dealing with a global pandemic which has altered the working environment in a plethora of ways.
-cover-img: /assets/path.jpg
+cover-img: /assets/img/waiting room kay.jpeg : "Picture source: Kay Hebden"
 thumbnail-img: /assets/img/Kay by computer.jpeg
 share-img: /assets/img/path.jpg
 tags: [Covid-19, Physiotherapy, NHS]
 ---
-
+"/path/to/img" : "Caption of image"
 For multiple decades, Kay was a physiotherapist working with those with multiskeletal conditions. This involved direct outpatient referrals from GPs where she would provide treatment through face-to-face appointments. Kay also worked on the orthopaedic pathway. In March, Covid-19 changed her job forever.
 
 >“I often say to people it is like I am trying to do physiotherapy with my hands tied around my back and blindfolded when I am on the phone to somebody. It is really difficult but you find a way to get used to it.”
