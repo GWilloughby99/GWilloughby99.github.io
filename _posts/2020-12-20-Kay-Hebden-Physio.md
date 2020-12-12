@@ -5,7 +5,7 @@ subtitle: Outpatient departments, such as physiotherapy, are dealing with a glob
 cover-img: /assets/path.jpg
 thumbnail-img: /assets/img/Kay by computer.jpeg
 share-img: /assets/img/path.jpg
-tags: [Covid-19, physiotherapy]
+tags: [Covid-19, Physiotherapy, NHS]
 ---
 
 For multiple decades, Kay was a physiotherapist working with those with multiskeletal conditions. This involved direct outpatient referrals from GPs where she would provide treatment through face-to-face appointments. Kay also worked on the orthopaedic pathway. In March, Covid-19 changed her job forever.
