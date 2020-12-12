@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examples
-subtitle:
+subtitle: Latest bits of work
 ---
 # Huffington Post
 
