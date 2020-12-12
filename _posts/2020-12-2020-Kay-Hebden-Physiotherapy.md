@@ -8,4 +8,3 @@ share-img: /assets/img/path.jpg
 tags: [Covid-19, physiotherapy]
 ---
 
-YEAR-MONTH-DAY-title.md
