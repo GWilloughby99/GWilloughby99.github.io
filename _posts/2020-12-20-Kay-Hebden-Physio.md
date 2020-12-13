@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/Kay by computer.jpeg
 share-img: /assets/img/waiting room Kay.jpg
 tags: [Covid-19, Physiotherapy, NHS]
 ---
+By **_George Willoughby_**
 
 For multiple decades, Kay was a physiotherapist working with those with multiskeletal conditions. This involved direct outpatient referrals from GPs where she would provide treatment through face-to-face appointments. Kay also worked on the orthopaedic pathway. In March, Covid-19 changed her job forever.
 
