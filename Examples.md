@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examples
-subtitle: Latest bits of work
+subtitle: A selection of graphics and maps
 ---
 # Huffington Post
 
