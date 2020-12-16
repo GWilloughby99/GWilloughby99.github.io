@@ -18,7 +18,7 @@ When the pandemic hit, Kay and the rest of the team were redeployed to try and c
 
 This was a national effort and the impact on current patients and staff was significant.
 
-“We were redeployed to an unused nursing home. It was used as an overflow from the hospital and at the start of the pandemic, the idea was to empty the hospitals ready for Covid-19 patients.
+>“We were redeployed to an unused nursing home. It was used as an overflow from the hospital and at the start of the pandemic, the idea was to empty the hospitals ready for Covid-19 patients.
 
 >“In the nursing home, we were acting as a discharge to assess unit. So anybody that had received treatment in hospital would be transferred into the care home. We would assess these patients and work out where they would move to next.
 
