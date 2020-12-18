@@ -82,6 +82,8 @@ Kay wants to try and embrace technology and proposes a revised system following 
 
 > “There are uses with the new development, but there are also problems that need to be ironed out. You have got to have face-to-face as well as the technology to make it work.”
 
+![Kaybycomputer](/assets/img/Kay by computer.jpeg)
+
 Ultimately, the Covid-19 pandemic has changed the way outpatient appointments will be delivered.
 
 Telephone and video calls are alternative methods that patients and staff have been adapting to.
