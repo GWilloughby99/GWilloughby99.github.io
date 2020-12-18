@@ -50,6 +50,8 @@ However, not everyone is going to have the same technological capabilities.
 
 > “We have had quite a few issues in that the technology has not been good. Often with the sound system, you cannot hear people on the line or the video link will break down.”
 
+![KayPPE](/assets/img/Image Kay ppe.jpeg)
+
 Outpatient departments are having to incorporate online appointments into their services. For areas like physiotherapy, patients require bodily examinations and a rapport is built with the physio.
 
 Telephone and video appointments do not have the same effect compared to meeting face-to-face. Kay was quite open about this saying that “things could be missed when it is over the phone.”
