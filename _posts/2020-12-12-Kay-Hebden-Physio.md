@@ -105,3 +105,5 @@ The challenge is whether departments can host classes again and also spend time 
 Combining phone calls and face-to-face appointments seems to be the approach for physiotherapy services.
 
 “I can see it being useful to integrate technology into our system, only if we do it right.”
+
+Picture Source: **_Kay Hebden_**
