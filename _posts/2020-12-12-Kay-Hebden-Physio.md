@@ -28,6 +28,8 @@ Outpatient departments across England have shut meaning the number of appointmen
 
 <iframe title="The total number of outpatients appointments has fallen in the past year" aria-label="Interactive line chart" id="datawrapper-chart-N2E6a" src="https://datawrapper.dwcdn.net/N2E6a/2/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="550"></iframe>
 
+## Changes to the profession ##
+
 The nature of physiotherapy work has changed because of the fluid nature of the pandemic. Preparing for such a rapid alteration is extremely difficult.
 
 “For those of us who have been redeployed. The change is massive. It is a completely different job,” - said Kay.
@@ -52,6 +54,8 @@ However, not everyone is going to have the same technological capabilities.
 
 ![KayPPE](/assets/img/Image Kay ppe.jpeg)
 
+## Limitations of online consultations ##
+
 Outpatient departments are having to incorporate online appointments into their services. For areas like physiotherapy, patients require bodily examinations and a rapport is built with the physio.
 
 Telephone and video appointments do not have the same effect compared to meeting face-to-face. Kay was quite open about this saying that “things could be missed when it is over the phone.”
@@ -72,6 +76,8 @@ Certain treatment types also require different approaches. Physiotherapy is just
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4405971"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Digital future ##
+
 Prime Minister Boris Johnson announced that restrictions in England are expected to stay in place until the Spring.
 
 Kay wants to try and embrace technology and proposes a revised system following confirmation of the Covid alert level announcement.
@@ -83,6 +89,8 @@ Kay wants to try and embrace technology and proposes a revised system following 
 > “There are uses with the new development, but there are also problems that need to be ironed out. You have got to have face-to-face as well as the technology to make it work.”
 
 ![Kaybycomputer](/assets/img/Kay by computer.jpeg)
+
+## The social side to physiotherapy ##
 
 Ultimately, the Covid-19 pandemic has changed the way outpatient appointments will be delivered.
 
