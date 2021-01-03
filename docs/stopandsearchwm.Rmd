@@ -1,0 +1,279 @@
+---
+title: "stopandsearchwm"
+author: "George WIlloughby"
+date: "11/11/2020"
+output: html_document
+---
+
+# Import the data into the markdown
+
+**The data was downloaded through the data.police.uk website. Make sure to have stop and search ticked when downloading.**
+
+*A good way of making sure the file name is correct is to find the file on your machine and then copy it. Remember to include the .csv at the end.*
+
+```{r}
+# Saving the data into a variable
+wmstopandsearch09 <- read.csv("2020-09-west-midlands-stop-and-search.csv", header=T, na.strings=c("","NA"))
+```
+
+You should see the new variable (wmstopandsearch09) in the top right of the markdown. You can click on it to see what the data looks like, but we are going to view it a different way.
+
+# Viewing the data
+
+```{r}
+#View the data
+wmstopandsearch09
+```
+
+*To just see the first few rows, you could also use the head() function:*
+
+```{r}
+#View the first six rows
+head(wmstopandsearch09)
+```
+
+# Inspecting the data
+
+**Now that we can see the data, we need to start looking at ways we can clean it up. Straight away, you should be able to see the date needs adjusting, and we also have some empty columns that we don't need**
+
+*Let's start off with renaming some of these columns. They are quite messy and r doesn't work well when there are spaces.*
+
+# Using colnames()
+
+```{r}
+#Show the column names
+colnames(wmstopandsearch09)
+```
+
+*We can change the names in the data like so:*
+
+```{r}
+#Renaming columns
+colnames(wmstopandsearch09) <- c("Type", "Date", "Policing_operation_part", "Policing_operation", "Latitude", "Longitude", "Gender", "Age_range", "Ethnicity", "Officer_ethnicity", "Legislation", "Search_object", "Outcome", "Object_search_outcome", "Removal_of_clothing")
+```
+
+
+```{r}
+colnames(wmstopandsearch09)
+```
+
+**To see the changes, view the dataset again. This is always a good idea to keep track of the alterations.**
+
+```{r}
+head(wmstopandsearch09)
+```
+
+#Removing columns
+
+**Now that we have renamed them, let's remove some of these unwanted columns. This markdown is focused on revealing which ethnicities were stopped the most.**
+
+**The columns we are going to remove are: Policing_operation_part, Policing_operation and Gender.**
+
+A note on *age_range*,*Officer_ethnicity* and *Object_search_outcome*, given the gaps in the data, it is better to not include these either.
+
+There are other ways of doing this, but we are going to use the dplyr() function.
+
+```{r}
+library("dplyr")
+
+wmstopandsearch09clean <- wmstopandsearch09 %>% select(Type, Date, Ethnicity, Age_range, Legislation, Search_object, Outcome, Removal_of_clothing)
+
+wmstopandsearch09clean
+
+```
+
+# Cleaning the date
+
+**Now that we have renamed columns to make them easier to read and removed unwanted columns, now let's run some code to clean the date.**
+
+*We are going to use tidyr() to extract what we need. Looking at the Date column, we can see the format is: yyyy-mm-dd and then followed by the time.*
+
+```{r}
+#Install tidyr
+install.packages("tidyr")
+
+#Activating tidyr
+library(tidyr)
+
+```
+
+# Changing the date column
+
+```{r}
+#Convert the date column
+newdate <- tidyr::separate(wmstopandsearch09clean, 2, c("Date"), sep= "T")
+
+newdate
+
+```
+
+**Now that we have the date we need, that marks the end of the cleaning process.**
+
+*One last thing. We should rename newdate into something more relevant and we can do that by saving it.*
+
+```{r}
+wmstopandsearch09final <- newdate
+
+wmstopandsearch09final
+
+```
+
+# Data analysis
+
+The main story angles from this data came from my Twitter thread where I showed how ethnic minorities were being stopped more in certain areas. This is why we are looking at the West Midland figures, as **over a quarter** of those stopped were Asian. The rate across police force in England and Wales was **one in ten**.
+
+The next part of this markdown will be analysing the latest figures from the West Midlands Police. The focus is to see if the force is above or below the rate of Asians being stopped and searched compared to last years reporting period.
+
+We will need some packages for this.
+
+```{r}
+#Install the tidyverse
+install.packages("tidyverse")
+
+#Activate tidyverse
+library(tidyverse)
+```
+
+# Counting 
+
+Firstly, let's count the number of stop and searches that took place in September. This will be useful for later when we compare the totals with the previous month.
+
+```{r}
+#Count the type of search
+wmstopandsearch09final %>%
+  count(Type, sort = TRUE)
+```
+
+*Now, let's see what the ethnicities can show us:*
+
+```{r}
+#Count the ethnicities stopped and searched
+wmstopandsearch09final %>%
+  count(Ethnicity, sort = TRUE)
+```
+**You should be able to notice that we have 'NA' values in our Ethnicity column. 166 to be exact. Now, with stop and search data, we are going to make the decision to exclude these. This kind of unknown data is not something we can use and we don't want the gaps.**
+
+*The next line of code shows where these NA's are generally. We will then work on excluding the blanks from Ethnicity and we will run the same code again.*
+
+```{r}
+#Counting the number of NAs
+colSums(is.na(wmstopandsearch09final))
+```
+
+
+# Removing NA
+
+*We are going to create a new data frame called ethnicity for this.*
+```{r}
+#new ethnicity data frame
+ethnicity <- wmstopandsearch09final %>% drop_na(Ethnicity, Age_range)
+ethnicity
+```
+
+At this point, you can export the code because you have everything that you need. You can start analysing the data in excel. We are going to continue using R to see the percentage of ethnic minorities stopped and searched by West Midlands Police
+
+```{r}
+write.csv(ethnicity, "westmidlands09stopandsearch.csv")
+```
+
+**Adapting the earlier code.**
+
+*When you run the colSums() code from earlier, you can see now that there are no longer any NAs in the Ethnicity column. You must be careful now saying about 'total' stop and searches because we have removed the incidents where an ethnicity wasn't recorded.*
+
+```{r}
+colSums(is.na(ethnicity))
+```
+
+# Ethnicities
+
+```{r}
+ethnicity %>%
+  count(Ethnicity, sort = TRUE)
+```
+#Using grepl
+
+**So grepl can be used to extract values that we want using upper and lower case characters. From the data, we can see that the Asian ethnicity is as follows:**  Asian/Asian British - 
+
+*It starts with a capital A and we can sort using this. But, as you will see, when we try that, we don't remove all the ethnicities.*
+
+
+```{r}
+#Activating packages
+library(jsonlite)
+library(httr)
+```
+
+
+```{r}
+ethnicity$Asian <- grepl("[A]+", ethnicity$Ethnicity)
+#Create subset for TRUE values
+asian.ethnicity <- subset(ethnicity, ethnicity$Asian == TRUE)
+
+asian.ethnicity
+```
+**The above code has removed some things, but not all. You can see this when we create a table to see what we have done.**
+
+```{r}
+table(asian.ethnicity$Ethnicity)
+```
+
+**We are getting values for ethnicities we are not looking to analyse. We only want those of Asian ethnicity. Let's try again...**
+
+```{r}
+asianonly <- grepl("Asian/Asian British", ethnicity$Ethnicity)
+```
+
+```{r}
+ethnicity$Asian <- asianonly
+```
+
+```{r}
+asianonly <- grepl("Asian/Asian British [A-s]", ethnicity$Ethnicity)
+```
+
+```{r}
+asianonly <- subset(ethnicity, ethnicity$Asian == TRUE)
+
+table(asianonly$Ethnicity)
+```
+
+#Calculations
+
+Now that we have the number of Asians stopped and searched by the West Midlands Police Force, we can do some simple calculations. 
+
+The most obvious thing to do would be to divide the number of Asian people stopped by the total number of stop and searches that took place. If you load back in the exported CSV from earlier in the script, we can do a quick calculation of how many people were stopped. You should get two numbers: 314 and 1571. This works out to be 1885.
+
+```{r}
+stopandsearch09total <- read.csv("westmidlands09stopandsearch.csv")
+
+stopandsearch09total %>%
+  count(Type)
+```
+
+*Show the number of Asian people stopped*
+
+```{r}
+asianonly %>%
+  count(Asian)
+```
+
+```{r}
+asianonly %>%
+  count(Age_range, sort = TRUE)
+```
+
+
+*Percentage of Asian people - by age group - stopped and searched
+
+```{r}
+tentotwentyfour <- 235/386 *100
+twentyfivetothirtyfourstopped <- 101/386 *100
+overtirtyfour <- 50/386 *100
+```
+
+
+
+
+
+
+

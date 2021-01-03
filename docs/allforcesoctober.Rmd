@@ -1,0 +1,28 @@
+---
+title: "allforcesoctober"
+author: "George WIlloughby"
+date: "11/12/2020"
+output: html_document
+---
+
+I realised that when I combined all the CSVs using Rbind(), that I could completed the same process a lot quicker.
+
+I used the command line used cat *.csv to create a new file which has the figures from all police forces areas and the stop and search figures for October.
+
+The focus on this next script is breaking down the searches by age group. Then, break it down further by ethnicity.
+
+To do this, we will need to adjust the following:
+
+1) Remove unwanted columns
+2) Rename column headings
+3) Remove NAs from Ethnicity and Age group columns
+4) Sort and count age groups to see who is getting stopped
+5) Filter out to just Asian ethnicity 
+6) Count who is being stopped - *The basis of this comes from the analysis of the West Midlands Police Force as 63% stop and searches of Asians were those aged between 10-24*
+
+# Import the data
+
+```{r}
+allpoliceforcesoct <- read.csv("allforcesoctober.csv", header=T, na.strings=c("","NA"))
+```
+
