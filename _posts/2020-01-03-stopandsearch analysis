@@ -26,8 +26,6 @@ tags: [StopandSearch, Police, UK]
 **About this chart:** The data for this chart can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Users have the choice to select either the figures using the [2011 cenus](https://www.ons.gov.uk/census/2011census) or the [2016 police appendix tables](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). For the 2016 line, the editorial decision was made to use the census date for the first three years as they are the most accurate. From 2013 the rate was calculated using the appendix tables. 
 
 
-
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/4673486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 {: .box-warning}
