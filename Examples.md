@@ -29,3 +29,11 @@ subtitle: A selection of graphics and maps
 ## Bar chart race for age groups testing positive for Covid-19
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/4086066"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Chart showing specifc hosptial admissions caused by smoking
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4693082"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Small multiple on most common diseases caused by smoking 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4696286"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
