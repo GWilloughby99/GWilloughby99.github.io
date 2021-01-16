@@ -28,7 +28,7 @@ This is slightly lower than the previous year, but almost four percentage points
 <div class="flourish-embed flourish-chart" data-src="visualisation/4662985"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 {: .box-warning}
-**About this chart:** The data in this graph can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). It shows the total number of Asian people stopped and searched in year. Figures show an upwards trend but should be seen as just the starting point in making a conclusion. There are more people with Asian heritage living in certain police force areas than others. It is expected that more Asian people would be stopped. The tooltips on the bars show that the percenatge of Asians being searched is increasing which requires further investigation. 
+**About this chart:** The data in this graph can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). It shows the total number of Asian people stopped and searched by year. Figures show an upwards trend but should be seen as just the starting point in making a conclusion. There are more people with Asian heritage living in certain police force areas than others. It is expected that more Asian people would be stopped. The popups on the bars show that the percenatge of Asians being searched is increasing which requires further investigation. 
 
 # Disproportionate stopping of ethnic minorities
 
@@ -77,7 +77,7 @@ The figures show that even with a high proportion of Asian people living in Bedf
 <iframe title="Yearly stop and search by Police Force Area " aria-label="map" id="datawrapper-chart-zM6oO" src="https://datawrapper.dwcdn.net/zM6oO/15/" scrolling="no" frameborder="0" style="border: none;" width="600" height="894"></iframe>
 
 {: .box-warning}
-**About this chart:** The data in this chart can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). To figure out the percentages, the number of Asian people stopped was divided by the total number of stop and searches by each police force. This gave a proportion and the top three were selected. Analysis into these three forces should not be treated as a trend for other forces. Figures for Greater Manchester and the British Transport Police were not inlcuded. Both areas did have sufficient enough data.
+**About this chart:** The data in this chart can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). To figure out the percentages, the number of Asian people stopped was divided by the total number of stop and searches by each police force. This gave a proportion and the top three were selected. Analysis into these three forces should not be treated as a trend for other forces. Figures for Greater Manchester and the British Transport Police were not inlcuded. Both areas did not have sufficient enough data.
 
 # The rate of Asians being stopped is increasing
 
