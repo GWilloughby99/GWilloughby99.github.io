@@ -87,18 +87,17 @@ This is the highest rate since the end of 2015.
 
 A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). The rate per 1,000 was 13 - following the same trend of gradual increases over the past five years.
 
-Figures from [data.gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#by-ethnicity-and-area) show the rate of white people stopped and searched in England and Wales was **five**. 
+The rate of white people being stopped and searched was **5**.
 
 Asians are almost **three times more likely** to be stopped by police through stop and search powers based on police appendix figures.
 
-Neil Basu says it is “more of a nuanced argument.”
+But, Neil Basu says it is “more of a nuanced argument.”
 
 “Society has been effectively prejudiced for a very long time,” says the assistant commissioner. 
 
 “That is not absolving our responsibility for what we do if we are contributing to that prejudice. 
 
 “We need behavioural sciences to start explaining what has happened to lead us to this point and then help us get better with it.”
-
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4633432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
