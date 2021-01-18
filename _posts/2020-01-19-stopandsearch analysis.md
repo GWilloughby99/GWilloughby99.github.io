@@ -19,8 +19,6 @@ This is when police have the power to search persons or vehicles if the officer 
 
 Figures released by the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) showed that one in 10 of all searches from 2019/20 were those of Asian ethnicity.
 
-This is slightly lower than the previous year, but almost four percentage points higher than in 2015.
-
 **Assistant Commissioner for the Metropolitan Police, Neil Basu**, said: “Stop and search is the most controversial power that we use. If we cannot explain why it is disproportionate, then we are in a very bad place.
 
 “We have to examine it very closely because it is an incredibly valuable policing tool. If we do not use it responsibly and correctly, then we deserve to lose it.”
@@ -38,7 +36,7 @@ Out of the 43 total forces, eight were above the **one in 10** average for Asian
 
 The force which stopped the highest proportion of Asian people was the West Midlands Police Force. They made up **over one quarter** of searches.
 
-People of Asian heritage make up 12 percent of the total population in the area. But, Asians accounted for nearly 30 percent of stop and searches.
+People of Asian heritage make up 12 percent of the total population in the area.
 
 **West Midlands Police’s lead for Stop & Search, Superintendent Ed Foster**, said: “On those figures alone, Asians are **2.4** times more likely to be stopped as white people.”
 
@@ -89,10 +87,9 @@ This is the highest rate since the end of 2015.
 
 A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). The rate per 1,000 was 13 - following the same trend of gradual increases over the past five years.
 
-Figures from [data.gov.uk](Figures from data.gov.uk show the rate of white people stopped and searched in England and Wales was five. 
-Asians are almost three times more likely to be stopped by police through stop and search powers. ) show the rate of white people stopped and searched in England and Wales was **five**. 
+Figures from [data.gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#by-ethnicity-and-area) show the rate of white people stopped and searched in England and Wales was **five**. 
 
-Asians are almost **three times more likely** to be stopped by police through stop and search powers. 
+Asians are almost **three times more likely** to be stopped by police through stop and search powers based on census figures.
 
 Neil Basu says it is “more of a nuanced argument.”
 
