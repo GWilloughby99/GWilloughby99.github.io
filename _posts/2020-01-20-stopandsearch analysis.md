@@ -81,7 +81,7 @@ The figures show that even with a high proportion of Asian people living in Bedf
 
 Nationally, the rate per 1,000 for those of Asian heritage being stopped and searched has been rising.
 
-Using population estimates from the 2011 census, **15 per 1,000** people stopped and searched were Asian.
+Using population estimates from the 2011 census, **15 per 1,000** Asians were stopped and searched.
 
 This is the highest rate since the end of 2015.
 
