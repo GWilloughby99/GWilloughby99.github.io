@@ -9,17 +9,15 @@ tags: [StopandSearch, Police, UK]
 ---
 Asians living in England and Wales are at least twice as likely to be stopped and searched compared to white people.
 
-Using the 2011 census data, the rate of people with Asian heritage stopped was 15 per 1,000. This is the highest figure since 2015.
+According to the 2011 census data, the rate of people with Asian heritage stopped was **15 per 1,000**. This is the highest figure since 2015.
 
 Furthermore, the number of Asian people stopped and searched by police forces has increased in two consecutive years.
 
-Stop and search figures were representative of reported incidents that took place under [section one of PACE](https://www.app.college.police.uk/app-content/stop-and-search/legal/legal-basis/#:~:text=of%20an%20offence.-,Section%201%20of%20the%20Police%20and%20Criminal%20Evidence%20Act%201984,points%20and%20blades%2C%20or%20fireworks.). 
+Stop and search figures were representative of reported incidents that took place under [section one of PACE](https://www.app.college.police.uk/app-content/stop-and-search/legal/legal-basis/#:~:text=of%20an%20offence.-,Section%201%20of%20the%20Police%20and%20Criminal%20Evidence%20Act%201984,points%20and%20blades%2C%20or%20fireworks.). This is when police have the power to search persons or vehicles if the officer has reasonable cause to find dangerous items. 
 
-This is when police have the power to search persons or vehicles if the officer has reasonable cause to find dangerous items. 
+Figures released by the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) showed that **one in 10** of searches from 2019/20 were those of Asian ethnicity.
 
-Figures released by the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) showed that one in 10 of all searches from 2019/20 were those of Asian ethnicity.
-
-**Assistant Commissioner for the Metropolitan Police, Neil Basu**, said: “Stop and search is the most controversial power that we use. If we cannot explain why it is disproportionate, then we are in a very bad place.
+**Assistant Commissioner for the Metropolitan Police, Neil Basu**, said: “Stop and search is the most controversial power that we use. If we cannot explain why it is disproportionate, then we are in a very bad place."
 
 “We have to examine it very closely because it is an incredibly valuable policing tool. If we do not use it responsibly and correctly, then we deserve to lose it.”
 
@@ -38,7 +36,7 @@ The force which stopped the highest proportion of Asian people was the West Midl
 
 People of Asian heritage make up 12 percent of the total population in the area.
 
-**West Midlands Police’s lead for Stop & Search, Superintendent Ed Foster**, said: “On those figures alone, Asians are **2.4** times more likely to be stopped as white people.”
+**West Midlands Police’s lead for Stop & Search, Superintendent Ed Foster**, said: “On those figures alone, Asians are **2.4** times more likely to be stopped than white people.”
 
 > “We are working to better understand why disproportionality occurs, including research with four academic centres and workshops with communities who are disproportionately affected by stop and search.”
 
@@ -46,7 +44,7 @@ West Midlands Police cover multiple areas where there are more residents of Asia
 
 This includes Central and East Birmingham which have [high crime rates in the West Midlands](https://www.police.uk/pu/your-area/west-midlands-police/performance/compare-your-area/?tc=BW001). 
 
-Neil Basu said that these types of areas are a contributing factor to why the figures are disproportionate.
+Neil Basu said that these types of areas are a contributing factor to why the figures can be disproportionate.
 
 > “We need to get to the point of why it is disproportionate”, says Basu. “Some places have very high levels of deprivation. They have been socially and economically ignored for decades.
 
@@ -54,7 +52,7 @@ Neil Basu said that these types of areas are a contributing factor to why the fi
 
 West Yorkshire Police was another force that was asked to explain the disproportionality. 
 
-The annual figures from the Home Office showed that **over one in five** stop and searches were people with Asian heritage.
+The annual figures from the Home Office showed that **over one in five** stop and searches involved people with Asian heritage.
 
 **Assistant Chief Constable Catherine Hankinson**, said: “We are very committed to openness and transparency regarding the use of stop and search.”
 
@@ -62,7 +60,9 @@ The annual figures from the Home Office showed that **over one in five** stop an
 
 > “We recognise that figures show people from BAME (including Asian) backgrounds are generally overrepresented in stop and search figures nationally, and locally. There is work ongoing across a number of areas to better understand this disproportionality.”
 
-Luton makes up one-third of the Asian communities in Bedfordshire. This explains why a large proportion of stop and searches are those with Asian backgrounds.
+Asians in Bedfordshire accounted for nearly **15%** of the forces stop and searches during 2019/20.
+
+But, Luton makes up one-third of the Asian communities in the area. This explains why a large proportion of stop and searches are those with Asian backgrounds.
 
 The figures show that even with a high proportion of Asian people living in Bedfordshire, stop and search powers are not being exploited.
 
@@ -81,13 +81,15 @@ The figures show that even with a high proportion of Asian people living in Bedf
 
 Nationally, the rate per 1,000 for those of Asian heritage being stopped and searched has been rising.
 
-Using population estimates from the 2011 census, **15 per 1,000** Asians were stopped and searched.
+Using population estimates from the 2011 census, **15 per 1,000** Asians were stopped and searched in the year ending March 2020.
 
 This is the highest rate since the end of 2015.
 
-A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). The rate per 1,000 was 13 - following the same trend of gradual increases over the past five years.
+A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1) as populations have changed since statistics were recoreded in 2011.
 
-The rate of white people being stopped and searched was **5**.
+The rate per 1,000 was 13 - following the same trend of gradual increases over the past five years.
+
+The rate of white people being stopped and searched was **5 per 1,000**.
 
 Asians are almost **three times more likely** to be stopped by police through stop and search powers based on police appendix figures.
 
@@ -108,7 +110,7 @@ But, Neil Basu says it is “more of a nuanced argument.”
 
 Younger people are stopped and searched more compared to older age groups.
 
-Using [data for October](https://data.police.uk/data/), there were a total of **5,398 Asians** that were stopped and searched. This was across **all police force** areas in England and Wales.
+According to [data for October](https://data.police.uk/data/), there were a total of **5,398 Asians** that were stopped and searched. This was across **all police force** areas in England and Wales.
 
 The reported incidents were counted only if ethnicity and age were identified.
 
@@ -138,7 +140,7 @@ During the same period, **3,579** people were stopped and searched - **692** of 
 
 This means that **seven in 10** searches of Asian people were below 25 years of age.
 
-**Superintendent Ian Taylor** said: “We have recently held meetings on stop and search which gave the wider community the chance to discuss how we are using [the tool].
+**Superintendent Ian Taylor** said: “We have recently held meetings on stop and search which gave the wider community the chance to discuss how we are using [the tool]."
 
 > “An approach we are also replicating with young people working alongside our partnership agencies. “Community members can review the statistics around stop and search and disproportionality, as well as randomly selected video examples.”
 
