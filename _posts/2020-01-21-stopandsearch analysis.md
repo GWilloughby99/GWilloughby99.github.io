@@ -15,15 +15,13 @@ According to the [2016 Police Appendix Tables](https://news.npcc.police.uk/resou
 
 This is the highest figure since 2014.
 
-Furthermore, the number of Asian people stopped and searched by police forces has increased in two consecutive years.
-
-Stop and search figures were representative of reported incidents that took place under [section one of PACE](https://www.app.college.police.uk/app-content/stop-and-search/legal/legal-basis/#:~:text=of%20an%20offence.-,Section%201%20of%20the%20Police%20and%20Criminal%20Evidence%20Act%201984,points%20and%20blades%2C%20or%20fireworks.). This is when police have the power to search persons or vehicles if the officer has reasonable cause to find dangerous items. 
-
-Figures released by the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) showed that **one in 10** of searches from 2019/20 were those of Asian ethnicity.
-
 **Assistant Commissioner for the Metropolitan Police, Neil Basu**, said: “Stop and search is the most controversial power that we use. If we cannot explain why it is disproportionate, then we are in a very bad place."
 
 “We have to examine it very closely because it is an incredibly valuable policing tool. If we do not use it responsibly and correctly, then we deserve to lose it.”
+
+Furthermore, the number of Asian people stopped and searched by police forces has increased in two consecutive years.
+
+Stop and search figures were representative of reported incidents that took place under [section one of PACE](https://www.app.college.police.uk/app-content/stop-and-search/legal/legal-basis/#:~:text=of%20an%20offence.-,Section%201%20of%20the%20Police%20and%20Criminal%20Evidence%20Act%201984,points%20and%20blades%2C%20or%20fireworks.). This is when police have the power to search persons or vehicles if the officer has reasonable cause to find dangerous items. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4662985"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -32,9 +30,9 @@ Figures released by the [Home Office](https://www.gov.uk/government/statistics/p
 
 # Disproportionate stopping of Asian minorities
 
-Yearly data showed that individual forces stop Asians more than others. 
+Figures released by the [Home Office](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020) showed that **one in 10** of searches from 2019/20 were those of Asian ethnicity. 
 
-Out of the 43 total forces, eight were above the **one in 10** average for Asians stopped and searched.
+Out of the 43 total forces, **eight** were above the average for Asians stopped and searched.
 
 The force which stopped the highest proportion of Asian people was the West Midlands Police Force. They made up **over one quarter** of searches.
 
