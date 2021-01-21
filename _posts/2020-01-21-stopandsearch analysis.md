@@ -87,7 +87,7 @@ Using population estimates from the 2011 census, **15 per 1,000** Asians were st
 
 This is the highest rate since the end of 2015.
 
-A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1) as populations have changed since statistics were recoreded in 2011.
+A more accurate representation would be to use the [2016 police force breakdown estimates](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1) as populations have changed since statistics were recorded in 2011.
 
 The rate per 1,000 was 13 - following the same trend of gradual increases over the past five years.
 
