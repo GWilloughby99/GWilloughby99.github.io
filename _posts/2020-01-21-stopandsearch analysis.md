@@ -164,7 +164,7 @@ This means that **seven in 10** searches of Asian people were below 25 years of 
 
 The next annual dataset on stop and search will be published later this year.
 
-To access the data used in this article, it can be found by [following this link](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Also, you can look at the analysis that took place by checking out this [repository on GitHub](https://github.com/GWilloughby99/Stop-and-search).
+To access the data used in this article, it can be found by [following this link](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Also, you can view the analysis that took place by checking out this [repository on GitHub](https://github.com/GWilloughby99/Stop-and-search).
 
 
 **Picture source**: dagmarbendel (via: Pixabay)
