@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/police-officers-.png
 share-img: /assets/img/police-officers-.png
 tags: [StopandSearch, Police, UK]
 ---
+By **_George Willoughby_**
+
 Asians living in England and Wales are at least twice as likely to be stopped and searched compared to white people.
 
 According to the [2016 Police Appendix Tables](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1), the rate of people with Asian heritage stopped was **13 per 1,000** during 2019/20. 
