@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: “We still have a huge way to go” - Rachael Hodges of the British Lung Foundation on reducing smoking admissions to hospital 
+subtitle: Admissions to hospital caused by smoking have reached the highest figure since records began.
 cover-img: /assets/img/smoking.jpg
 thumbnail-img: /assets/img/smoking.jpg
 share-img: /assets/img/smoking.jpg
