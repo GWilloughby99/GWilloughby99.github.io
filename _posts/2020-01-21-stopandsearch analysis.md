@@ -30,7 +30,7 @@ Figures released by the [Home Office](https://www.gov.uk/government/statistics/p
 {: .box-warning}
 **About this chart:** The data in this graph can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). It shows the total number of Asian people stopped and searched by year. Figures show an upwards trend but should be seen as just the starting point in making a conclusion. There are more people with Asian heritage living in certain police force areas than others. It is expected that more Asian people would be stopped. The popups on the bars show that the percenatge of Asians being searched is increasing which requires further investigation. 
 
-# Disproportionate stopping of ethnic minorities
+# Disproportionate stopping of Asian minorities
 
 Yearly data showed that individual forces stop Asians more than others. 
 
