@@ -95,7 +95,7 @@ The rate per 1,000 was 13 - following the same trend of gradual increases over t
 
 The rate of white people being stopped and searched was **5 per 1,000**.
 
-Asians are almost **three times more likely** to be stopped by police through stop and search powers based on police appendix figures.
+Asians are almost **three times more likely** to be stopped by police through stop and search powers based on breakdown estimates.
 
 But, Neil Basu says it is “more of a nuanced argument.”
 
@@ -108,7 +108,7 @@ But, Neil Basu says it is “more of a nuanced argument.”
 <div class="flourish-embed flourish-chart" data-src="visualisation/4633432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 {: .box-warning}
-**About this chart:** The data for this chart can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Users have the choice to select either the figures using the [2011 census](https://www.ons.gov.uk/census/2011census) or the [2016 police appendix tables](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). For the 2016 line, the editorial decision was made to use the census date for the first three years as they are the most accurate. From 2013 the rate was calculated using the appendix tables. 
+**About this chart:** The data for this chart can be accessed from [Data.gov.uk](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Users have the choice to select either the figures using the [2011 census](https://www.ons.gov.uk/census/2011census) or the [2016 police appendix tables](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1). For the 2016 line, the editorial decision was made to use the census figures for the first three years as they are the most accurate. From 2013 the rate was calculated using the appendix tables. 
 
 # Criminalising a generation
 
@@ -148,7 +148,7 @@ This means that **seven in 10** searches of Asian people were below 25 years of 
 
 **Superintendent Ian Taylor** said: “We have recently held meetings on stop and search which gave the wider community the chance to discuss how we are using [the tool]."
 
-> “An approach we are also replicating with young people working alongside our partnership agencies. “Community members can review the statistics around stop and search and disproportionality, as well as randomly selected video examples.”
+> “An approach we are also replicating with young people working alongside our partnership agencies. “Community members can review the statistics around stop and search and disproportionality, as well as randomly select video examples.”
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4673486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -164,7 +164,7 @@ This means that **seven in 10** searches of Asian people were below 25 years of 
 
 The next annual dataset on stop and search will be published later this year.
 
-To access the data used in this article, it can be found by [following this link](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Also, you can view the analysis that took place by checking out this [repository on GitHub](https://github.com/GWilloughby99/Stop-and-search).
+To access the data used in this article, it can be found by [following this link](https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2020). Also, you can view the analysis that took place by viewing this [repository on GitHub](https://github.com/GWilloughby99/Stop-and-search).
 
 
 **Picture source**: dagmarbendel (via: Pixabay)
