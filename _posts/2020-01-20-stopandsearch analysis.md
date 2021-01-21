@@ -9,7 +9,9 @@ tags: [StopandSearch, Police, UK]
 ---
 Asians living in England and Wales are at least twice as likely to be stopped and searched compared to white people.
 
-According to the 2011 census data, the rate of people with Asian heritage stopped was **15 per 1,000**. This is the highest figure since 2015.
+According to the [2016 Police Appendix Tables](https://news.npcc.police.uk/resources/appendix-tables-for-policing-the-pandemic-report1), the rate of people with Asian heritage stopped was **13 per 1,000** during 2019/20. 
+
+This is the highest figure since 2014.
 
 Furthermore, the number of Asian people stopped and searched by police forces has increased in two consecutive years.
 
@@ -108,15 +110,17 @@ But, Neil Basu says it is “more of a nuanced argument.”
 
 # Criminalising a generation
 
-Younger people are stopped and searched more compared to older age groups.
+Figures are published monthly for each for police force on [data.police.uk](https://data.police.uk/data/).
 
-According to [data for October](https://data.police.uk/data/), there were a total of **5,398 Asians** that were stopped and searched. This was across **all police force** areas in England and Wales.
+According to data for October, younger people are stopped and searched more compared to older age groups.
+
+There were a total of **5,398 Asians** that were stopped and searched. This was across **all police force** areas in England and Wales.
 
 The reported incidents were counted only if ethnicity and age were identified.
 
 From the total number of searches, **3,191 (59%)** were between the ages of 10-24.
 
-As the previous annual figures showed, West Midlands, West Yorkshire and Bedfordshire stopped the highest percentage of Asians.
+As the previous annual figures showed, **West Midlands**, **West Yorkshire** and **Bedfordshire** stopped the highest percentage of Asians in relation to their searches.
 
 An analysis looked into these three forces and whether they were criminalising a generation by stopping younger Asians.
 
