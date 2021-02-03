@@ -17,7 +17,7 @@ The overall rise in admissions is “a stark reminder that we have a huge way to
 
 Only circulatory disease admissions decreased in the previous year. These types of admissions fell by **5%** during 2019/20 - **20,000 fewer** compared to when data was first recorded.
 
-“At the moment it is more important than ever that people stay well and out of hospital to protect themselves and the NHS,” said the charity’s senior policy officer. “Quitting smoking is an important way of doing this.”
+> “At the moment it is more important than ever that people stay well and out of hospital to protect themselves and the NHS,” said the charity’s senior policy officer. “Quitting smoking is an important way of doing this.”
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4696286"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -80,8 +80,47 @@ Given the high rate of pharmacotherapy, demand for cessation services has grown 
 
 More people are wanting to stop, with the #QuitForCovid campaign motivating many to seek support.
 
+> “During Covid-19, people are taking the opportunity to focus on improving their health and wellbeing. It is too early to say whether this will result in a reduction in smoking rates but we are building on this momentum and encouraging everyone to make a quit attempt.
+
+> “Our behavioural sessions with Stop Smoking Advisors are taking place via telephone instead of face-to-face consultations. This has been met positively by our service users and Advisors are generally reporting less ‘Did-Not-Attends’ due to the greater flexibility provided in arranging telephone consultations.”
+
+<iframe title="The rate of prescriptions per 1,000 people for the treatment of smoking dependence" aria-label="Map" id="datawrapper-chart-5PqGt" src="https://datawrapper.dwcdn.net/5PqGt/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="874"></iframe>
+
+Out of the top-10 pharmacotherapy rates, **four of the CCGs** were in the North West region.
+
+This included Manchester, Stockport, Oldham and Warrington.
+
+Figures for 2020 showed that the Manchester CCG had **20,172 prescription items** that were used for treatment. This was the second-highest number in England.
+
+The **[CURE project](https://thecureproject.co.uk/)** is an initiative that was designed to reduce the number of people dependent on smoking in the Greater Manchester area.
+
+Rachel Hodges says the CURE Project means “patients are far more likely to stop successfully.”
+
+> “All inpatients who smoke are given treatment to stop smoking in the hospital. It was an ambition in the [NHS Long Term Plan](https://www.longtermplan.nhs.uk/online-version/chapter-2-more-nhs-action-on-prevention-and-health-inequalities/smoking/) to replicate this model in all hospitals in England – which is great news.
+
+> “We urge the NHS to ensure funding is available for this rollout and that hospitals are supported to implement it so that all patients have the best chance of stopping smoking for good.”
+
+## Rising admissions despite tobacco price increases
+
+There are concerns that even with tobacco prices increasing yearly, hospital admissions because of smoking continue to increase.
+
+In 2019, people in the United Kingdom spent just under **two billion pounds** on tobacco.
+
+This marked an annual decrease for the first time in three years. But, in the past decade,  household expenditure on tobacco has grown on average by **2%** each year.
+
+Quitting smoking is “quite simply incredibly difficult,” says Hodges.
+
+> “Nicotine is highly addictive, and smokers will develop a level of physical dependence on their use of tobacco. Because of this physical addiction, some people may find it takes a long time to stop for good.
+
+> “We need to ensure we do everything we can to help and encourage people to stop. Increasing prices is an important part of this, but is not a silver bullet. Stress is a factor for why lots of people smoke, and during this incredibly difficult year, for some it has been even harder to quit.
+
+> “The good news is the NHS has designed services to provide support to help people quit. Having access to the most effective methods of quitting means smokers are more likely to be successful, quit earlier and save further damage to their health.“
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4705412"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+You can view the data used in this article [here](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-smoking/statistics-on-smoking-england-2020).
+
+To view further information and analysis, check out this [repo on GitHub](https://github.com/GWilloughby99/Smoking-data-analysis).
 
 
-
-
-**Picture source**: *Sophie Riches* (Via: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smoking_in_black_and_white.jpg))
+**Picture source**: *Sophie Riches* (Via: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smoking_in_black_and_white.jpg)
