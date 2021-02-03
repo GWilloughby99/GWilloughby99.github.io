@@ -116,4 +116,4 @@ You can view the data used in this article [here](https://digital.nhs.uk/data-an
 To view further information and analysis, check out this [repo on GitHub](https://github.com/GWilloughby99/Smoking-data-analysis).
 
 
-**Picture source**: *Sophie Riches* (Via: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smoking_in_black_and_white.jpg)
+**Picture source**: *Sophie Riches* (Via: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smoking_in_black_and_white.jpg))
