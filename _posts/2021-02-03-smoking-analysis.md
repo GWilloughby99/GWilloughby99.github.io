@@ -43,7 +43,7 @@ Alongside this, Covid-19 is particularly more [fatal for those with difficulties
 <div class="flourish-embed flourish-chart" data-src="visualisation/4693082"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 {: .box-warning}
-**About this chart:**
+**About this chart:** Figures are for adults aged 35 and over | Admissions rounded to the nearest 100.
 
 ## Falling number of deaths
 
@@ -72,7 +72,6 @@ The highest rate of people needing pharmacotherapies to help ease their smoking 
 The rate in **NHS Bradford was 45** - over **three times higher** than the average across all CCGs in England which was **13**.
 
 **A spokesperson for Bradford Council said**: “Our smoking rates have fallen for the third successive year in Bradford to 16.5%, but we still remain above the regional (15.7%) and the national average (13.9%).”
-
 
 > “Although we are making progress in reducing the number of people in the District smoking, we are not doing so at the same pace as other areas. There are still groups where smoking rates remain stubbornly high, such as among people in manual occupations and individuals who suffer from a serious mental illness.”
 
