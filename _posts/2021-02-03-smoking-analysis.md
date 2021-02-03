@@ -21,9 +21,6 @@ Only circulatory disease admissions decreased in the previous year. These types 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4696286"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-{: .box-warning}
-**About this chart:**
-
 ## Respiratory issues and Covid-19
 
 The most common admission for both men and women was **chronic airway obstruction**. 
@@ -41,9 +38,6 @@ Alongside this, Covid-19 is particularly more [fatal for those with difficulties
 > “[But], for many people, the pandemic encouraged them to think about their lungs for the first time and take action to keep their lungs healthy. Research has found that the numbers of people trying to quit smoking last year were the highest seen in over a decade.”
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4693082"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-{: .box-warning}
-**About this chart:** Figures are for adults aged 35 and over | Admissions rounded to the nearest 100.
 
 ## Falling number of deaths
 
