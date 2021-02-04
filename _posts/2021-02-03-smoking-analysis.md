@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVEALED - Admissions to hospital caused by smoking have reached the highest figure since records began
-subtitle: Covid-19 has taken the lives of over 100,000 people in the United Kingdom. The respiratory nature of the virus puts those who smoke more at risk. I spoke to the senior policy officer of the British Lung Foundation to discuss how the pandemic has impacted those who smoke and their behaviours
+subtitle: Covid-19 has taken the lives of over 100,000 people in the United Kingdom. The respiratory nature of the virus puts those who smoke more at risk. We spoke to the senior policy officer of the British Lung Foundation to discuss how the pandemic has impacted those who smoke and their behaviours
 cover-img: /assets/img/smoking.jpg
 thumbnail-img: /assets/img/smoking.jpg
 share-img: /assets/img/smoking.jpg
