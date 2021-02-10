@@ -7,7 +7,8 @@ subtitle: A selection of graphics and maps
 
 ## R-rate heat map
 
-<iframe title="Regions in England are seeing varying R rates" aria-label="Map" id="datawrapper-chart-pAy0a" src="https://datawrapper.dwcdn.net/pAy0a/2/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="837"></iframe>
+<iframe title="Regions in England are seeing varying R rates" aria-label="Map" id="datawrapper-chart-DJq06" src="https://datawrapper.dwcdn.net/DJq06/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="837"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ## Regional hosptial bed occupany multi-chart
 
