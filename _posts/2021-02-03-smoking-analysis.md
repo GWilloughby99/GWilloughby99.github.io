@@ -117,5 +117,3 @@ To view further information and analysis, check out this [repo on GitHub](https:
 
 
 **Picture source**: *Sophie Riches* (Via: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smoking_in_black_and_white.jpg))
-
-<div class="flourish-embed" data-src="story/781715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
