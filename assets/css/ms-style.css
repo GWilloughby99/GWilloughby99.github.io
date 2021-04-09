@@ -15,3 +15,10 @@
   float: left;
   padding: 8%;
 }
+
+/* Global
+------------------------------------- */
+
+.header-images {
+  width: 100%;
+}
