@@ -9,6 +9,15 @@
 /*   margin: 8rem; */
 }
 
+.vince-fundraising {
+  width:100%;
+  height:500px;
+  object-fit:cover;
+  object-position:50% 50%;
+}
+
+
+
 /* .anne-image { */
 /*   position: fixed;  */
 /*   width: 285px; */
