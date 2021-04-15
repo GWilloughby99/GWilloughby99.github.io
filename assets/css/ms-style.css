@@ -40,3 +40,12 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+/* Audio
+------------------------------------- */
+
+.vince-audio {
+  width:250px;
+  background-color: #ffffff;
+  float:right;
+}
