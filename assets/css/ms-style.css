@@ -18,13 +18,13 @@
 
 
 
-/* .anne-image { */
+.anne-image {
 /*   position: fixed;  */
 /*   width: 285px; */
-/*   height: 350px; */
-/*   float: left; */
-/*   padding: 8%; */
-/* } */
+  height: 350px;
+  float: left;
+  padding-right: 40px;
+}
 
 .salford-outside {
   background-size: cover;
