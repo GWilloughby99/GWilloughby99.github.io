@@ -20,7 +20,7 @@ tags: [Health, Neurology, Multiple Sclerosis]
    <main>
     <article>
      <h1> 'A lot of people have been genuinely suffering very severely': the impact Covid-19 has had on those living with multiple sclerosis. </h1>
-     <h3> Multiple Sclerosis (MS) is a neurodegenerative condition that causes damage to the nerves in your brain and spine. Despite advancements in treatments, there is no cure. Common symptoms can be brain fog, mobility and impairments to vision. Thousands of people are trying to manage their condition through a pandemic that has taken away fundamental aspects of their treatment. </h3>
+     <h2> Multiple Sclerosis (MS) is a neurodegenerative condition that causes damage to the nerves in your brain and spine. Despite advancements in treatments, there is no cure. Common symptoms can be brain fog, mobility and impairments to vision. Thousands of people are trying to manage their condition through a pandemic that has taken away fundamental aspects of their treatment. </h2>
       <br>
       <br>
       
@@ -29,9 +29,9 @@ tags: [Health, Neurology, Multiple Sclerosis]
        <section class="vince-ashton">
          <figure class="vince-sectio">
           <img class="vince-image" src="/assets/img/vince-ashton.jpg" alt="Vince running" style="width:250px">
+          <p> <i>"We are now relying on ourselves to actually report anything"</i> - the words of Vince Ashton trying to manage his neurological condition </p>
           <p> This is just example text which I need to use in order to test to see whether the spacing, text and imgaes all work out together as I try to complete my investigation </p>
-          <p> This is just example text which I need to use in order to test to see whether the spacing, text and imgaes all work out together as I try to complete my investigation </p>
-          <p> This is just example text which I need to use in order to test to see whether the spacing, text and imgaes all work out together as I try to complete my investigation </p>
+          > This is just example text which I need to use in order to test to see whether the spacing, text and imgaes all work out together as I try to complete my investigation
           <audio class="vince-audio" controls src="/assets/audio/vince-audio-edited.mp3" Listen to vince talk about the importance of </audio>
          </figure>
       </section>
