@@ -17,7 +17,7 @@
 }
 
 figcaption {
-  /* border: 1px #cccccc solid; */
+  border: 1px #cccccc solid;
   padding: 4px;
   /* margin: auto; */
   float: right;
