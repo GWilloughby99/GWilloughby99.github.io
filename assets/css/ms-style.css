@@ -54,4 +54,5 @@ html {
   width:250px;
 /*   background-color: #ffffff; */
   float:right;
+  position: fixed;
 }
