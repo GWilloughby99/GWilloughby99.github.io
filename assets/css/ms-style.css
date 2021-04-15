@@ -19,7 +19,7 @@
 figcaption {
   border: 1px #cccccc solid;
   padding: 4px;
-  /* margin: auto; */
+  margin: auto;
   float: right;
   max-width: 250px;
   font-size: 0.75em;
