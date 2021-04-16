@@ -61,6 +61,7 @@ figcaption {
   float:left;
   font-size: 0.75em;
   font-weight: lighter;
+  max-width: 315px;
 }
 
 /* Global
@@ -82,9 +83,12 @@ html {
 ------------------------------------- */
 
 .vince-audio {
-/*   width:200px; */
-/*   background-color: #ffffff; */
+  max-width: 285px;
   float:right;
+  padding-left: 30px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
 /*   margin: 0; */
 /*   padding: 0; */
 }
