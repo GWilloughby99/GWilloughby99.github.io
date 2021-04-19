@@ -64,6 +64,14 @@ figcaption {
   float:left;
   font-size: 0.75em;
   font-weight: lighter;
+  max-width: 260px;
+}
+
+.vince-caption {
+  border: 1px #cccccc solid;
+  float:right;
+  font-size: 0.75em;
+  font-weight: lighter;
   max-width: 315px;
 }
 
