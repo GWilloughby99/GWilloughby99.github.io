@@ -5,7 +5,7 @@
 /*   width: 285px; */
   height: 300px;
   float: right;
-  padding-left: 40px;
+  padding-left: 30px;
   margin-bottom: 0px;
   padding-bottom: 0px;
 /*   margin: 8rem; */
@@ -86,11 +86,11 @@ html {
 ------------------------------------- */
 
 .vince-audio {
-  float:right;
-  padding-left: 30px;
-  padding-bottom: 0px;
-  padding-top: 0px;
-  margin-top: 0px;
+ float:right;
+ padding-left: 30px;
+ padding-bottom: 0px;
+ padding-top: 0px;
+ margin-top: 0px;
 }
 
 .anne-audio {
