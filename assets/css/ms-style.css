@@ -1,5 +1,26 @@
 /* Images
 ------------------------------------- */
+
+.intro-header.big-img {
+    background: no-repeat center center;
+/*     -webkit-background-size: cover; */
+/*     -moz-background-size: cover; */
+    background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    margin-top: 3.1875rem;
+    margin-bottom: 2.1875rem;
+}
+
+
+
+
+
+
+
+
+
+
 .vince-image {
   /* position: fixed; */
 /*   width: 285px; */
