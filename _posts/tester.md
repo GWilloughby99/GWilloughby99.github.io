@@ -1,0 +1,9 @@
+---
+layout: post
+title: MS Test
+subtitle: Seeing whether the header image format is not displaying properly
+cover-img: /assets/img/salford-royal-outside.jpg
+thumbnail-img: /assets/img/sid-watkins-wc.jpg
+share-img: /assets/img/police-officers-.png
+tags: [StopandSearch, Police, UK]
+---
