@@ -84,14 +84,11 @@ html {
 ------------------------------------- */
 
 .vince-audio {
-  max-width: 285px;
   float:right;
   padding-left: 30px;
   padding-bottom: 0px;
   padding-top: 0px;
   margin-top: 0px;
-/*   margin: 0; */
-/*   padding: 0; */
 }
 
 .anne-audio {
@@ -99,6 +96,5 @@ float: left;
 padding-right: 30px;
 padding-top: 0px;
 margin-top: 0px;
-padding-top: 0px;
 padding-bottom: 0px;
 }
