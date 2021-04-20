@@ -62,6 +62,10 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+font-size:3rem;
+margin-top: 0rem;}
+
 /* Audio
 ------------------------------------- */
 
