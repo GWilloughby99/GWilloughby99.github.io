@@ -39,11 +39,11 @@
 /* Captions
 ------------------------------------- */
 figcaption {
-  border: 1px #cccccc solid;
+  border: 2px #cccccc solid;
   padding: 4px;
   margin: auto;
   width: auto;
-  float: right;
+/*   float: right; */
   max-width: 250px;
   font-size: 0.75em;
   font-weight: lighter;
@@ -58,13 +58,13 @@ figcaption {
   font-weight: lighter;
 }
 
-.anne-caption {
-  border: 1px #cccccc solid;
-  float:left;
-  font-size: 0.75em;
-  font-weight: lighter;
-  max-width: 260px;
-}
+/* .anne-caption { */
+/*   border: 1px #cccccc solid; */
+/*   float:left; */
+/*   font-size: 0.75em; */
+/*   font-weight: lighter; */
+/*   max-width: 260px; */
+/* } */
 
 /* .vince-caption { */
 /*   border: 1px #cccccc solid; */
