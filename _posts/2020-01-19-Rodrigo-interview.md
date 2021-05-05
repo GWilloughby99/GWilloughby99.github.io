@@ -97,4 +97,4 @@ The need to display case rates, deaths and movement during the pandemic has high
 
 > “If you can find a balance between specialising in complex stuff, and the general knowledge of the craft, this would be a really good thing.”
 
-**This piece was published on the [Online Journalism Blog](https://onlinejournalismblog.com/2021/01/19/systems-would-go-offline-for-days-just-to-delay-the-release-of-data-rodrigo-menegat-on-covid-19-data-journalism-in-brazil/).
+This piece was published on the [Online Journalism Blog](https://onlinejournalismblog.com/2021/01/19/systems-would-go-offline-for-days-just-to-delay-the-release-of-data-rodrigo-menegat-on-covid-19-data-journalism-in-brazil/).
