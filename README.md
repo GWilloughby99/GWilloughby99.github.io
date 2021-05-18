@@ -1,7 +1,5 @@
 # GWJournalism
 
-## Website and data journalism portfolio
-
 
 
 # Template credits
