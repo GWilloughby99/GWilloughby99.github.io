@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Examples
+title: Portfolio
 subtitle: A selection of graphics and maps
 ---
 # Huffington Post
