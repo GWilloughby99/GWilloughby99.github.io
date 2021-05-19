@@ -49,11 +49,33 @@ figcaption {
   font-size: 0.75em;
   font-weight: lighter;
  }
-
+/*
  .vince-caption {
-/*    margin-right: -15vw !important; width: 13vw !important; */
+   border: 1px #cccccc solid;
+   float:right;
+   margin-right: -15vw !important; width: 11.5vw !important;
+   margin: auto;
+   width: auto;
+   font-size: 0.75em;
+   font-weight: lighter;
+   /* max-width: 265px; */
+   /* padding-bottom: 10px; */
+   /* margin-bottom: 50px; */
+   /* margin-top: 25px; */
  }
-
+/*
+ .anne-caption {
+   border: 1px #cccccc solid;
+   float:left;
+   margin-left: -20vw !important; width: 15.5vw !important;
+   margin: auto;
+   width: auto;
+   font-size: 0.75em;
+   font-weight: lighter;
+   /* max-width: 265px; */
+   /* padding-bottom: 10px; */
+   /* margin-bottom: 50px; */
+   /* margin-top: 105px; */
 /* Global
 ------------------------------------- */
 /* .header-images { */
@@ -85,7 +107,7 @@ margin-top: 0rem;}
  margin-right: -15vw !important; width: 13vw !important;
 }
 
-.anne-audio {
+ .anne-audio {
 float:left;
 margin-left:-20vw !important; width: 17vw !important;
 padding-right: 30px;
