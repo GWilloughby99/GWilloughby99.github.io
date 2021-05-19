@@ -206,7 +206,7 @@ tags: [Health, Neurology, Multiple Sclerosis, Covid-19, MS Trust, MS Society]
           trigger_point: "25%",
           offset_top: "100px",
           step_styles: {
-              background: "#d3d3d3",
+              background: "#DFDFDF",
               fontSize: "20px"
             }
           });
