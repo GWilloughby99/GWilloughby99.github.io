@@ -3,7 +3,7 @@
 .vince-image {
   /* position: fixed; */
 /*   width: 285px; */
-  height: 300px;
+  height: 360px;
   float: right;
   padding-left: 30px;
   margin-bottom: 0px;
@@ -24,11 +24,12 @@
 .anne-image {
 /*   position: fixed;  */
 /*   width: 285px; */
-  height: 350px;
+  height: 425px;
   float: left;
   padding-right: 30px;
+  margin-top: 30px;
   margin-bottom: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 20px;
   margin-left: -20vw !important; width: 17vw !important;
 }
 
@@ -49,8 +50,8 @@ figcaption {
   font-weight: lighter;
  }
 
- .vince-cption {
-   margin-right: -15vw !important; width: 13vw !important;
+ .vince-caption {
+/*    margin-right: -15vw !important; width: 13vw !important; */
  }
 
 /* Global
@@ -78,18 +79,19 @@ margin-top: 0rem;}
 .vince-audio {
  float:right;
  padding-left: 30px;
- padding-bottom: 0px;
- padding-top: 0px;
- margin-top: 0px;
+ padding-bottom: 10px;
+ /* padding-top: 10px; */
+ margin-top: 55px;
  margin-right: -15vw !important; width: 13vw !important;
 }
 
 .anne-audio {
-float: left;
+float:left;
+margin-left:-20vw !important; width: 17vw !important;
 padding-right: 30px;
-padding-top: 20px;
-margin-top: 0px;
-margin-bottom: 5px;
-margin-left: -20vw !important; width: 17vw !important;
+/* padding-top: 20px; */
+margin-top: 60px;
+/* margin-bottom: 5px; */
+/* margin-left:-20vw !important; width: 17vw !important; */
 /* padding-bottom: 20px; */
 }
