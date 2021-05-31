@@ -46,18 +46,6 @@
   margin-left: -20vw !important; width: 17vw !important;
 }
 
-@media (max-width: 768px) {
-  .anne-section {
-    float: none;
-  }
-}
-
-@media (max-width: 768px) {
-  .anne-section {
-    float: none;
-  }
-}
-
 .salford-outside {
   background-size: cover;
   width: 100%;
