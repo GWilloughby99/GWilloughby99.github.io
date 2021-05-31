@@ -19,16 +19,16 @@
   object-position:50% 50%;
 }
 
-@media (max-width: 768px) {
-  .vince-section {
-    float: right;
+/* @media (max-width: 768px) { */
+/*   .vince-section { */
+/*     float: right; */
   }
 }
 
 /* Float to the right on screens that are equal to or greater than 769px wide */
-@media (min-width: 769px) {
-  .vince-section {
-    float: right;
+/* @media (min-width: 769px) { */
+/*   .vince-section { */
+/*     float: right; */
   }
 }
 
