@@ -20,14 +20,14 @@
 }
 
 @media (max-width: 768px) {
-  .vince-image {
+  .vince-section {
     float: right;
   }
 }
 
 /* Float to the right on screens that are equal to or greater than 769px wide */
 @media (min-width: 769px) {
-  .vince-image {
+  .vince-section {
     float: right;
   }
 }
