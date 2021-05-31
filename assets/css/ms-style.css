@@ -19,6 +19,9 @@
   object-position:50% 50%;
 }
 
+
+
+
 .anne-image {
 /*   position: fixed;  */
 /*   width: 285px; */
@@ -30,6 +33,7 @@
   padding-bottom: 20px;
   margin-left: -20vw !important; width: 17vw !important;
 }
+
 
 .salford-outside {
   background-size: cover;
