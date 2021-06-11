@@ -1,15 +1,15 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+  float: left !important;
+  width: 33.33% !important;
+  padding: 5px !important;
 }
 
 /* Clear floats after image containers */
 .row::after {
-  content: "";
-  clear: both;
-  display: table;
+  content: "" !important;
+  clear: both !important;
+  display: table !important;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other
