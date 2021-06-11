@@ -1,24 +1,3 @@
-/* Three image containers (use 25% for four, and 50% for two, etc)
-.column {
-  float: left !important;
-  width: 33.33% !important;
-  padding: 5px !important;
-}
-
-Clear floats after image containers
-.row::after {
-  content: "" !important;
-  clear: both !important;
-  display: table !important;
-}
-
-Responsive layout - makes the three columns stack on top of each other instead of next to each other
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-} */
-
 /* Create three equal columns that sits next to each other */
 .column {
   flex: 33.33% !important;
@@ -41,4 +20,9 @@ margin-right: -20vw !important; width: 17vw !important;
 
 * {
   box-sizing: border-box;
+}
+
+header{
+  background-color: #C7CCDB;
+  color: #343434;
 }
