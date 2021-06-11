@@ -4,6 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How I use data in sport</title>
     <link rel="stylesheet" href="assets/css/sport.css">
+    <main>
+      <h1> How I use data in sport </h1>
   <div class="row">
     <div class="column">
   <iframe title="Statistical breakdown of Derrick Henry's production" aria-label="Range Plot" id="datawrapper-chart-j2H7E" src="https://datawrapper.dwcdn.net/j2H7E/6/" scrolling="no" frameborder="0" style="width: 748px; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
