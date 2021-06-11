@@ -16,9 +16,9 @@ author: George Willoughby
 navbar-links:
   About Me: "aboutme"
   Podcast: "Podcast"
-  Portfolio: "Examples"
-  Contact: "contact"
+#   Portfolio: "Examples"
   Sport: "Sport"
+  Contact: "contact"
 
 # --- Logo --- #
 
