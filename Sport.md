@@ -7,7 +7,8 @@
 
     
  <h1 style="text-align:center"> How I use data in sport </h1>
-        
+   <br>
+    <br>
 
 <div class="row">
     <div class="column">
