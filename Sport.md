@@ -2,7 +2,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How I use data in sport</title>
+<!--     <title>How I use data in sport</title> -->
     <link rel="stylesheet" href="assets/css/sport.css">
     <main>
       <h1> How I use data in sport </h1>
