@@ -5,7 +5,7 @@
 <!--     <title>How I use data in sport</title> -->
     <link rel="stylesheet" href="assets/css/sport.css">
     <main>
-      <h1> How I use data in sport </h1>
+      <h1 style="text-align:center"> How I use data in sport </h1>
       <br>
       
   <div class="row">
