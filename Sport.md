@@ -23,6 +23,20 @@
      </div>
        </div>
           
+       
+       
+       
+ <div class="row">
+  <div class="column">
+    <img src="/assets/img/derrick-henry.png" alt="Rushing stats" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/dk-metcalf.png" alt="Metcalf receiving stats" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/qb-performances.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
      
      
