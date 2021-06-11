@@ -21,8 +21,9 @@
     <img src="/assets/img/dk-metcalf.png" alt="Metcalf stats rookie" style="width:100%">
   </div>-->
 </div>
-
-  </body>    
+  </body>  
+    </html>  
+  
 
      
      
