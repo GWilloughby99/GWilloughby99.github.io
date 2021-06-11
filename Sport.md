@@ -5,8 +5,10 @@
   </head>
   <body>     
 
-    
- <h1 style="text-align:center"> How I use data in sport </h1>
+ <header>
+        <div class="content-wrap">
+          <h1 style="text-align:center">How I use data in sport</h1>           
+          <h2 style="text-align:center">A selection of interactive charts and scatterplots</h2>
    <br>
     <br>
 
