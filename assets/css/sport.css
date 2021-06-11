@@ -25,3 +25,12 @@ Responsive layout - makes the three columns stack on top of each other instead o
   padding: 5px !important;
 }
 
+.henry {
+float: left;
+margin-left: -20vw !important; width: 17vw !important;
+}
+
+.qb{
+float: right;
+margin-right: -20vw !important; width: 17vw !important;
+}
