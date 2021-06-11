@@ -11,10 +11,10 @@
 
  <div class="row">
   <div class="column">
-    <img class="henry" src="/assets/img/derrick-henry.png" alt="Henry rushing stats" style="width:100%">
+    <img class="henry" src="/assets/img/derrick-henry.png" alt="Henry rushing stats" style="width:100% style="float: left">
   </div>
   <div class="column">
-    <img class="qb" src="/assets/img/qb-performances.png" alt="How qbs performed last season" style="width:100%">
+    <img class="qb" src="/assets/img/qb-performances.png" alt="How qbs performed last season" style="width:100%" style="float:right">
 <!--   </div>
   <div class="column">
     <img src="/assets/img/dk-metcalf.png" alt="Metcalf stats rookie" style="width:100%">
