@@ -1,7 +1,6 @@
 <html lang="en-GB">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0>
     <link rel="stylesheet" href="assets/css/sport.css">
   </head>
   <body>     
@@ -20,9 +19,7 @@
   <div class="column">
     <img src="/assets/img/dk-metcalf.png" alt="Metcalf stats rookie" style="width:100%">
   </div>-->
-</div>
-  </body>  
-    </html>  
+</div> 
   
 
      
