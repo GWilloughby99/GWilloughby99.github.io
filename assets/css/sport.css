@@ -21,7 +21,7 @@ Responsive layout - makes the three columns stack on top of each other instead o
 
 /* Create three equal columns that sits next to each other */
 .column {
-  flex: 33.33%;
-  padding: 5px;
+  flex: 33.33% !important;
+  padding: 5px !important;
 }
 
