@@ -38,3 +38,7 @@ margin-right: -20vw !important; width: 17vw !important;
 .row {
   display: flex;
 }
+
+* {
+  box-sizing: border-box;
+}
