@@ -16,8 +16,8 @@
 <body>     
 <!--     <title>How I use data in sport</title> -->
     
-<!--       <h1 style="text-align:center"> How I use data in sport </h1> -->
-      <br>
+       <h1 style="text-align:center"> How I use data in sport </h1>
+      
       
 <!--   <div class="row">
     <div class="column">
