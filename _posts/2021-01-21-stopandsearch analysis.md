@@ -4,7 +4,7 @@ title: “If we cannot explain why it is disproportionate then we are in a very 
 subtitle: Figures show Asian minorities are disproportionately stopped and searched by police forces.
 cover-img: /assets/img/police-officers-.png
 thumbnail-img: /assets/img/police-officers-.png
-share-img: /assets/img/latest-police-officers.jpg
+share-img: /assets/img/police-officers-.png
 
 tags: [StopandSearch, Police, UK]
 ---
